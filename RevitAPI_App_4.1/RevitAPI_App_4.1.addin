@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddins>
+	<AddIn Type="Command">
+		<Assembly>C:\RevitAPITraining\RevitAPI_App_4.1.dll</Assembly>
+		<AddInId>820B8C8A-71FC-4336-A7AC-4EB58952DDEB</AddInId>
+		<FullClassName>RevitAPI_App_4.1.Main</FullClassName>
+		<VendorIT>ADSK</VendorIT>
+		<Text>Запись в файл данных о стенах</Text>
+	</AddIn>
+</RevitAddins>
